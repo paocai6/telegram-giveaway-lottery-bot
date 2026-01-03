@@ -1,14 +1,14 @@
 # 🎰 Lucky Star Bot - Telegram 抽奖机器人
 
 <p align="center">
-  <img src="banner.png" alt="Lucky Star Bot" width="600">
+  <img src="docs/images/IMG_1779.png" alt="Lucky Star Bot" width="600">
 </p>
 
 <p align="center">
   <a href="https://t.me/MyLuckyStar8_Bot">
     <img src="https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram" alt="Telegram Bot">
   </a>
-  <a href="https://t.me/your_channel">
+  <a href="[https://t.me/your_channel](https://t.me/MyLuckyStar6)">
     <img src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram" alt="Telegram Channel">
   </a>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
@@ -66,9 +66,9 @@
 ## 📱 界面预览
 
 <p align="center">
-  <img src="screenshots/home.png" alt="首页" width="250">
-  <img src="screenshots/create.png" alt="创建抽奖" width="250">
-  <img src="screenshots/result.png" alt="开奖结果" width="250">
+  <img src="docs/images/IMG_2073.png" alt="首页" width="250">
+  <img src="docs/images/IMG_2074.png" alt="创建抽奖" width="250">
+  <img src="docs/images/IMG_2075.png" alt="添加奖品" width="250">
 </p>
 
 ---
