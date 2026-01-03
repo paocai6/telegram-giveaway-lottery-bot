@@ -140,8 +140,8 @@
 
 | 渠道 | 链接 |
 |------|------|
-| 📢 官方频道 | [@YourChannel]([https://t.me/your_channel](https://t.me/MyLuckyStar6)) |
-| 💬 交流群组 | [@YourGroup]([https://t.me/your_group](https://t.me/@LuckyStar9988)) |
+| 📢 官方频道 | [@MyLuckyStar6](https://t.me/MyLuckyStar6) |
+| 💬 交流群组 | [@LuckyStar9988](https://t.me/LuckyStar9988) |
 | 🤖 机器人 | [@MyLuckyStar8_Bot](https://t.me/MyLuckyStar8_Bot) |
 | 📧 商务合作 | https://t.me/paocai6 |
 
