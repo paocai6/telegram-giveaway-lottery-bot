@@ -1,14 +1,14 @@
 # 🎰 Lucky Star Bot - Telegram Giveaway Bot
 
 <p align="center">
-  <img src="banner.png" alt="Lucky Star Bot" width="600">
+  <img src="docs/images/IMG_1779.png" alt="Lucky Star Bot" width="600">
 </p>
 
 <p align="center">
   <a href="https://t.me/MyLuckyStar8_Bot">
     <img src="https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram" alt="Telegram Bot">
   </a>
-  <a href="https://t.me/your_channel">
+  <a href="[https://t.me/your_channel](https://t.me/MyLuckyStar6)">
     <img src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram" alt="Telegram Channel">
   </a>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
@@ -66,9 +66,9 @@ Supports **14 languages**:
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" alt="Home" width="250">
-  <img src="screenshots/create.png" alt="Create Giveaway" width="250">
-  <img src="screenshots/result.png" alt="Results" width="250">
+  <img src="docs/images/IMG_2069.png" alt="Home" width="250">
+  <img src="docs/images/IMG_2070.png" alt="Create Giveaway" width="250">
+  <img src="docs/images/IMG_2071.png" alt="Results" width="250">
 </p>
 
 ---
@@ -140,10 +140,10 @@ For private deployment, please contact us for commercial licensing.
 
 | Channel | Link |
 |---------|------|
-| 📢 Official Channel | [@YourChannel](https://t.me/your_channel) |
-| 💬 Discussion Group | [@YourGroup](https://t.me/your_group) |
+| 📢 Official Channel | [@MyLuckyStar6](https://t.me/MyLuckyStar6) |
+| 💬 Discussion Group | [@LuckyStar9988](https://t.me/LuckyStar9988) |
 | 🤖 Bot | [@MyLuckyStar8_Bot](https://t.me/MyLuckyStar8_Bot) |
-| 📧 Business Inquiries | your-email@example.com |
+| 📧 Business Inquiries | https://t.me/paocai6 |
 
 ---
 
