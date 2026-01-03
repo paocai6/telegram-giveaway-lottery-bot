@@ -143,7 +143,7 @@ For private deployment, please contact us for commercial licensing.
 | 📢 Official Channel | [@MyLuckyStar6](https://t.me/MyLuckyStar6) |
 | 💬 Discussion Group | [@LuckyStar9988](https://t.me/LuckyStar9988) |
 | 🤖 Bot | [@MyLuckyStar8_Bot](https://t.me/MyLuckyStar8_Bot) |
-| 📧 Business Inquiries | https://t.me/paocai6 |
+| 📧 Business Inquiries | [@paocai6](https://t.me/paocai6) |
 
 ---
 
